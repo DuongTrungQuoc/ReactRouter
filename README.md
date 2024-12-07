@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Router
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Router là một thư viện được viết bằng React để quản lý routing trong các ứng dụng web.
 
 ## Available Scripts
 
