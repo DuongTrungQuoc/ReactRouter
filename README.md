@@ -2,9 +2,9 @@
 
 React Router là một thư viện được viết bằng React để quản lý routing trong các ứng dụng web.
 
-## Available Scripts
+## Cài đặt
 
-In the project directory, you can run:
+npm i react-router-dom
 
 ### `npm start`
 
